@@ -1,0 +1,7 @@
+Flask
+flask-restful
+flask_cors
+tensorflow
+pillow>=6.2.1
+numpy>=1.17.3
+
